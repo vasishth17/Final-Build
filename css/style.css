@@ -64,7 +64,14 @@ opacity: 0.8;
     position: relative;
     color: white;
     padding: 12px 8px;
-   
+    font-family: 'Mukta', sans-serif;
+    font-size: 1em;
+    transition: border-bottom 0.7s ease-in-out;
+  }
+  .characters li h5:hover{
+    border-bottom: 3px solid yellow;
+    padding-bottom: 8px;
+    width: 100%;
   }
   
   .characters li a { text-decoration: none; }
@@ -84,6 +91,7 @@ opacity: 0.8;
   article { 
     padding: 40px;
     text-align: center;
+    font-family: 'Ubuntu', sans-serif;
     
   }
   .content{
@@ -163,6 +171,7 @@ opacity: 0.8;
     background-position: 40px bottom;
   
     display: none;
+    font-family: 'PT Sans', sans-serif;
   }
   
   #lightbox2 { background-image: url('../img/Trevor_Phillips_png.png'); }
