@@ -1,1 +1,2 @@
 # Final-Build
+GTA 5 is an action-adventure game set in the fictional state of San Andreas, based on California and Nevada. Players control three characters, Michael, Franklin, and Trevor, as they navigate their way through the criminal underworld of Los Santos, a city based on Los Angeles. The story revolves around a series of elaborate heists and challenges, with the characters facing rival gangs, corrupt officials, and law enforcement. The story culminates in a conspiracy involving a billionaire businessman and a government agency, leading to a climactic final mission.
